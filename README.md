@@ -9,7 +9,7 @@
 在pom.xml中添加 
 
 ```xml
-<repositories>
+    <repositories>
         <repository>
             <id>ideaShare-maven-snapshot-repository</id>
             <name>ideaShare-maven-snapshot-repository</name>
@@ -30,7 +30,7 @@
 ### common-utils
 
 ```xml
-		<dependency>
+	<dependency>
             <groupId>tech.ideashare</groupId>
             <artifactId>common-utils</artifactId>
             <version>1.0-SNAPSHOT</version>
