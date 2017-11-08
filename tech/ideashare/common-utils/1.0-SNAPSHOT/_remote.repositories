@@ -1,4 +1,6 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Wed Jul 26 18:33:21 CST 2017
+#Wed Nov 08 22:46:19 CST 2017
 common-utils-1.0-SNAPSHOT.jar>=
+common-utils-1.0-SNAPSHOT.jar>ideaShare-maven-snapshot-repository=
+common-utils-1.0-SNAPSHOT.pom>ideaShare-maven-snapshot-repository=
 common-utils-1.0-SNAPSHOT.pom>=
