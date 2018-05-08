@@ -1,12 +1,11 @@
 # maven-repo
 
-> 纷享科技公开maven-repo  有两个分支 snapshot 和 release  
+> 纷享科技公开maven-repo  有两个分支 snapshot 和 release
 >
-> QQ交流群：661749608
 
 ## 引用方法
 
-在pom.xml中添加 
+在pom.xml中添加
 
 ```xml
     <repositories>
@@ -30,15 +29,13 @@
 ### common-utils
 
 ```xml
-	<dependency>
+        <dependency>
             <groupId>tech.ideashare</groupId>
-            <artifactId>common-utils</artifactId>
-            <version>1.0-SNAPSHOT</version>
+            <artifactId>utils-base</artifactId>
+            <version>0.0.1-RELEASE</version>
         </dependency>
 ```
 
-
-
 `一些常用的工具`
 
-- httputils 
+- httputils
