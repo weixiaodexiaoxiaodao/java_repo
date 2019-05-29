@@ -1,6 +1,6 @@
 # maven-repo
 
-> 纷享科技公开maven-repo  有两个分支 snapshot 和 release
+> 小刀java公开maven-repo  有两个分支 snapshot 和 release
 >
 
 ## 引用方法
